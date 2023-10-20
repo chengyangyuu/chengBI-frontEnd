@@ -1,4 +1,4 @@
-# chengBI with AIGC build with Ant Design Pro
+# chengBI is A BI Sysyem with AIGC
 
 This project is initialized with [Ant Design Pro](https://pro.ant.design). Follow is the quick guide for how to use.
 
